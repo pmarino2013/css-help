@@ -1,0 +1,64 @@
+.logo-fixed {
+  position: sticky;
+  top: 0;
+}
+
+.container-menu {
+  position: relative;
+}
+
+.menu-btn span {
+  font-size: 20px;
+}
+
+.button {
+  font-size: 20px;
+  font-weight: bold;
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #68d16e; /* Violeta */
+  color: #060606; /* Texto en blanco */
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease; /* Transición suave en el hover */
+}
+.button:hover {
+  background-color: #409243; /* Violeta más oscuro en el hover */
+  color: #ffffff; /* Texto en blanco */
+}
+.logo {
+  width: 150px;
+}
+.menu {
+  font-size: 25px;
+  padding: 30px;
+  max-width: 300px;
+  /* border-radius: 5px;
+  -webkit-box-shadow: 1px 5px 15px 1px #7d7d7d;
+  box-shadow: 1px 5px 15px 1px #7d7d7d;
+  background-color: #f5f5f5; */
+}
+.menu ul {
+  list-style: none;
+}
+p {
+  font-size: 20px;
+}
+
+@media (min-width: 590px) {
+  .border-content {
+    position: relative;
+    z-index: 99;
+    min-height: 500px;
+
+    border-radius: 5px;
+    -webkit-box-shadow: 1px 5px 15px 1px #7d7d7d;
+    box-shadow: 1px 5px 15px 1px #7d7d7d;
+  }
+  .menu-btn {
+    position: sticky;
+    z-index: 2;
+    top: 130px;
+  }
+}

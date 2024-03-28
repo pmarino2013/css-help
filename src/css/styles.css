@@ -1,0 +1,8 @@
+ul,
+li {
+  vertical-align: middle;
+}
+
+li::marker {
+  content: url(../assets/bullet_green.png) " ";
+}

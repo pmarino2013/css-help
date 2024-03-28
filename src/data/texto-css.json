@@ -1,0 +1,77 @@
+{
+    "title":"Propiedades CSS para Texto 🆎",
+    "principales": [
+      {
+        "propiedad": "font-family",
+        "descripcion": "Define la familia tipográfica del texto."
+      },
+      {
+        "propiedad": "font-size",
+        "descripcion": "Ajusta el tamaño del texto."
+      },
+      {
+        "propiedad": "font-weight",
+        "descripcion": "Controla el grosor del texto (normal, negrita, etc.)."
+      },
+      {
+        "propiedad": "font-style",
+        "descripcion": "Define el estilo del texto (normal, itálica, etc.)."
+      },
+      {
+        "propiedad": "text-transform",
+        "descripcion": "Convierte el texto a mayúsculas, minúsculas o capitalización."
+      },
+      {
+        "propiedad": "letter-spacing",
+        "descripcion": "Ajusta el espacio entre las letras."
+      },
+      {
+        "propiedad": "word-spacing",
+        "descripcion": "Ajusta el espacio entre las palabras."
+      },
+      {
+        "propiedad": "line-height",
+        "descripcion": "Controla la altura de la línea del texto."
+      }
+    ],
+    "apariencia": [
+      {
+        "propiedad": "color",
+        "descripcion": "Define el color del texto."
+      },
+      {
+        "propiedad": "text-decoration",
+        "descripcion": "Agrega decoración al texto (subrayado, línea, etc.)."
+      },
+      {
+        "propiedad": "text-align",
+        "descripcion": "Alinea el texto a la izquierda, derecha, centro o justificado."
+      },
+      {
+        "propiedad": "text-indent",
+        "descripcion": "Sangra la primera línea del texto."
+      }
+    ],
+    "otras": [
+      {
+        "propiedad": "text-shadow",
+        "descripcion": "Agrega una sombra al texto."
+      },
+      {
+        "propiedad": "text-overflow",
+        "descripcion": "Controla cómo se muestra el texto que no cabe en su contenedor."
+      },
+      {
+        "propiedad": "white-space",
+        "descripcion": "Controla cómo se manejan los espacios en blanco y las tabulaciones."
+      },
+      {
+        "propiedad": "direction",
+        "descripcion": "Define la dirección del texto (ltr o rtl)."
+      },
+      {
+        "propiedad": "unicode-bidi",
+        "descripcion": "Controla el comportamiento del texto bidireccional."
+      }
+    ]
+  }

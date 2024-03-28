@@ -1,0 +1,38 @@
+
+    {
+        "title":"Propiedades CSS para Imágenes 🖼️",
+        "principales":
+        [
+            {"propiedad":"width", "descripcion":"Ajusta el ancho de la imagen."},
+            {"propiedad": "height", "descripcion":"Ajusta el ancho de la imagen."},
+            {"propiedad": "max-width", "descripcion":"Define el ancho máximo de la imagen."},
+            {"propiedad": "max-height", "descripcion":"Define la altura máxima de la imagen."},
+            {"propiedad":  "margin", "descripcion":"Controla el espacio alrededor de la imagen."},
+            {"propiedad":  "padding", "descripcion": "Controla el espacio dentro de la imagen, entre el borde y el contenido."},
+            {"propiedad":  "display", "descripcion": "Define cómo se muestra la imagen (bloque, en línea, etc.)."},
+            {"propiedad":  "position", "descripcion": "Posiciona la imagen en relación a su contenedor (absoluta, relativa, etc.)."},
+            {"propiedad":  "top", "descripcion": "Posiciona la imagen verticalmente desde la parte superior de su contenedor."},
+            {"propiedad":  "left", "descripcion": "Posiciona la imagen horizontalmente desde la izquierda de su contenedor."}
+
+        ],
+        "apariencia": 
+        [
+            {"propiedad":  "border", "descripcion": "Define el borde de la imagen."},
+            {"propiedad":  "border-radius", "descripcion": "Redondea las esquinas de la imagen."},
+            {"propiedad":  "box-shadow", "descripcion": "Agrega una sombra a la imagen."},
+            {"propiedad":  "object-fit", "descripcion": "Controla cómo la imagen se ajusta a su contenedor (cubrir, contener, etc.)."},
+            {"propiedad":  "filter", "descripcion": "Aplica efectos a la imagen (desenfoque, saturación, etc.)."},
+            {"propiedad":  "opacity", "descripcion": "Controla la transparencia de la imagen."}
+
+        ]
+       ,
+        "otras": 
+        [
+            {"propiedad":  "cursor", "descripcion": "Cambia el cursor del mouse al pasar sobre la imagen."},
+            {"propiedad":  "z-index", "descripcion": "Controla la posición de la imagen en el plano Z (superposición)."},
+            {"propiedad":  "background-image", "descripcion": "Usa una imagen como fondo de un elemento."},
+            {"propiedad":  "list-style-image", "descripcion": "Usa una imagen como marcador de lista."}
+        ]
+        
+      }
+    
