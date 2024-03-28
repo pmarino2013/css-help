@@ -3,6 +3,7 @@ import { Outlet } from "react-router-dom";
 
 import MenuVerticalApp from "../components/MenuVerticalApp";
 import logo from "../assets/css_help.png";
+import MenuApp from "../components/MenuApp";
 const HomeScreen = () => {
   const [show, setShow] = useState(false);
   const handleClose = () => {
@@ -33,9 +34,7 @@ const HomeScreen = () => {
       <div className="row container-menu">
         <div className="col-md-4 col-12 mb-3">
           <div className="d-md-grid menu-btn d-none">
-            <button className="button" onClick={handleShow}>
-              Menú
-            </button>
+            <MenuApp />
           </div>
 
           <MenuVerticalApp show={show} handleClose={handleClose} />
