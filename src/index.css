@@ -50,7 +50,7 @@ p {
   font-size: 20px;
 }
 
-@media (min-width: 590px) {
+@media (min-width: 768px) {
   .border-content {
     position: relative;
     z-index: 99;
