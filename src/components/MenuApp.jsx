@@ -41,12 +41,13 @@ const MenuApp = ({ handleClose }) => {
           </li>
         </ul>
       </nav>
-      <small>
-        Invitame un
-        <a href=" https://tecito.app/pmarino" target="_blank">
-          🍵
-        </a>
-      </small>
+      <a
+        className="text-slate-100"
+        href=" https://tecito.app/pmarino"
+        target="_blank"
+      >
+        <small>Invitame un 🍵</small>
+      </a>
     </div>
   );
 };
